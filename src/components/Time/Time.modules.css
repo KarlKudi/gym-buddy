@@ -1,0 +1,11 @@
+p{
+    position: relative;
+    color:black;
+    margin-right:2cm;
+    margin-top: 15px;
+}
+
+.TimePicker{
+    position: relative;
+    margin-top:0;
+}
